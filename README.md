@@ -1,5 +1,21 @@
 👋 **Hi!** My name is Felipe Lopes Fagundes and I am a pharmacy student with a passion for data analysis and web development. My interest in exploring data 📊 and creating visual solutions has led me to dive into languages like R for statistical analysis and HTML/CSS for web page development.
 
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="Linguage R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
+  <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+
+</div><br><br>
+
+
+![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=tokionight) <br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact)
+
+
 ## Skills
 
 📊 **Data Analysis:** I have experience in statistical analysis using R, where I apply techniques such as data visualization, statistical modeling, and machine learning to extract valuable insights from datasets.
@@ -16,19 +32,6 @@
 
 💻 **Web Development:** I am working on personal and collaborative web development projects, creating websites and web applications to share information and experiences.
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="Linguage R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
-  <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-</div><br><br>
-
-
-![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=tokionight) <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 ## Contact
