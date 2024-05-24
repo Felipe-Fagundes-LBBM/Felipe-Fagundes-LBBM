@@ -11,9 +11,7 @@
 </div><br><br>
 
 
-![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=tokionight) <br><br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact)
+![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=tokionight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact)
 
 
 ## Skills
