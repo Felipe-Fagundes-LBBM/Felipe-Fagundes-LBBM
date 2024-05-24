@@ -11,7 +11,7 @@
 </div><br><br>
 
 
-![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=tokionight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&hide_progress=true)
+![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&hide_progress=true)
 
 <br>
 
