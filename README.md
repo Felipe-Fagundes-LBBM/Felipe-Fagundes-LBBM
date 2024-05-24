@@ -13,6 +13,9 @@
 
 ![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=tokionight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact)
 
+<br>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Felipe-Fagundes-LBBM)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
 
