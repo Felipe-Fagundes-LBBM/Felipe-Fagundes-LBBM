@@ -12,7 +12,7 @@
 
 
 ![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact&hide=html&theme=midnight-purple)
-
+![Snake Animation](https://github.com/Felipe-Fagundes-LBBM/Felipe-Fagundes-LBBM/blob/output/github-contribution-grid-snake.svg)
 <br>
 
 ## Skills
