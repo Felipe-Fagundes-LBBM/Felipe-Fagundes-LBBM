@@ -10,7 +10,7 @@
 
 
 ![Fagundez GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=midnight-purple) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact&hide=html&theme=midnight-purple)
-![Snake Animation](https://github.com/Felipe-Fagundes-LBBM/Felipe-Fagundes-LBBM/blob/output/github-contribution-grid-snake.svg)
+
 <br>
 
 ## Skills
@@ -36,6 +36,14 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-lopes-fagundes-529378285/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipelopesfagundes@gmail.com)
+
+<div> 
+  <a href="https://instagram.com/felpsfagundez" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ <a href="https://discord.gg/felipefagundes31" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "felipelopesfagundes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](felipelopesfagundes@gmail.com)"></a>
+  <a href="https://www.linkedin.com/in/felipe-lopes-fagundes-529378285/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
 
 Feel free to explore my repositories and get in touch if you are interested in collaborating on projects or discussing ideas related to data, web development, or health!
 
