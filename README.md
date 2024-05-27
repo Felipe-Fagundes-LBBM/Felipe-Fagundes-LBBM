@@ -10,7 +10,7 @@
 
 <div>
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=midnight-purple">
-<img height="200em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact&hide=html&theme=midnight-purple">
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact&hide=html&theme=midnight-purple">
 </div>
 
 <br>
@@ -27,7 +27,7 @@
 
 ## Projects
 
-📊 **Data Analysis:** I regularly contribute with data analyses and visualizations on [my GitHub profile](link_to_github_profile), covering a variety of topics from simple exploratory analysis to more complex projects involving predictive modeling.
+📊 **Data Analysis:** I regularly contribute with data analyses and visualizations on [my GitHub profile](https://github.com/Felipe-Fagundes-LBBM), covering a variety of topics from simple exploratory analysis to more complex projects involving predictive modeling.
 
 💻 **Web Development:** I am working on personal and collaborative web development projects, creating websites and web applications to share information and experiences.
 
