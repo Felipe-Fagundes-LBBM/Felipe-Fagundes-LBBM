@@ -9,8 +9,8 @@
 </div><br><br>
 
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=midnight-purple">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact&hide=html&theme=midnight-purple">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Fagundes-LBBM&show_icons=true&theme=midnight-purple">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Fagundes-LBBM&layout=compact&hide=html&theme=midnight-purple">
 </div>
 
 <br>
